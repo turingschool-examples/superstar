@@ -1,0 +1,3 @@
+class Superstar
+
+end
